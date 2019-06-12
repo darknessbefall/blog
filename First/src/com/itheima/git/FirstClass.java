@@ -5,4 +5,7 @@ public class FirstClass {
         System.out.println("hello,git");
         System.out.println("hello,git");
     }
+    public static void gitTest(){
+        System.out.println("git_test");
+    }
 }
