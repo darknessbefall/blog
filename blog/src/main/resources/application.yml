@@ -1,0 +1,15 @@
+#Thymeleaf\u7684\u6A21\u677F\u914D\u7F6E
+spring:
+  thymeleaf:
+    mode: HTML
+
+
+  #\u5F53\u524D\u6D3B\u8DC3\u7684\u73AF\u5883
+  profiles:
+    active: dev
+
+    messages:
+        basename: i18n/messages
+
+
+comment.avatar: /images/avatar.png
